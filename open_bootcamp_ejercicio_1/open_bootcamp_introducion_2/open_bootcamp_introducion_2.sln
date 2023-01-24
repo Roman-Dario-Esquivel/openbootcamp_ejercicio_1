@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "open_bootcamp_introducion_2", "open_bootcamp_introducion_2\open_bootcamp_introducion_2.csproj", "{9403FFA6-91E9-4E69-A27D-29B36CF5497D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9403FFA6-91E9-4E69-A27D-29B36CF5497D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9403FFA6-91E9-4E69-A27D-29B36CF5497D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9403FFA6-91E9-4E69-A27D-29B36CF5497D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9403FFA6-91E9-4E69-A27D-29B36CF5497D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1AF512B7-BD18-4DE8-B513-96292434A45A}
+	EndGlobalSection
+EndGlobal
